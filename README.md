@@ -54,8 +54,5 @@ Outside of tech, 🎮 I enjoy playing video games, 🎵 listening to music, 🏋
 </a>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=YehinnerTA&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+ 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=YehinnerTA&theme=chartreuse-dark"></p>
-
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BYehinnerTA%7D/count.svg" alt="visitor badge"/></p>
